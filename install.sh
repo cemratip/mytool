@@ -7,7 +7,7 @@ INSTALL_DIR="$HOME/mytool"
 mkdir -p "$INSTALL_DIR"
 
 # Download the tool
-curl -L https://example.com/mytool -o "$INSTALL_DIR/mytool"
+curl -L https://github.com/cemratip/mytool -o "$INSTALL_DIR/mytool"
 
 # Make the tool executable
 chmod +x "$INSTALL_DIR/mytool"
