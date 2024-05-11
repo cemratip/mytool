@@ -1,4 +1,4 @@
-$toolUrl = "https://example.com/mytool.exe"
+$toolUrl = "https://github.com/cemratip/mytool.exe"
 $installDir = "$HOME\mytool"
 $exePath = Join-Path $installDir "mytool.exe"
 
